@@ -55,7 +55,6 @@ body {
 
 .navigation {
   display: flex;
-  // flex: 1;
 }
 
 nav {
@@ -146,7 +145,7 @@ ul.dropdown-items {
   visibility: hidden;
 }
 
-// Paragraphs, text, anchor tag, etc
+/* // Paragraphs, text, anchor tag, etc */
 
 a,
 ul,
