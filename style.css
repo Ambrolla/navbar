@@ -188,8 +188,4 @@ h1 {
     display: contents;
     margin: 0px;
   }
-
-  .collapse:not(.show) {
-    display: block;
-  }
 }
